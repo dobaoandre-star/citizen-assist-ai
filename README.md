@@ -2,7 +2,7 @@
 
 GS2026.2 · Pensamento Computacional e Automação com Python · FIAP · 1CCPY
 
-**Integrante previsto:** [NOME DO INTEGRANTE] — RM [RM DO INTEGRANTE]. Projeto preparado como individual; confirmar a composição antes da entrega.
+**Nome:Yihang Xu— RM：571720(individual)
 
 ## Proposta
 
@@ -120,18 +120,3 @@ Consulta de referência realizada em **16/11/2026**. Cada registro contém a fon
 - https://www.gov.br/pt-br/servicos/inscrever-no-cpf
 - https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas
 - https://www.gov.br/pt-br/servicos/atualizar-cadastro-de-pessoas-fisicas
-
-## Limitações e autoria
-
-Vocabulário limitado; não compreende negações e contexto como uma pessoa. Conteúdo estático exige manutenção. Não realiza cadastros, não verifica elegibilidade, não substitui atendimento oficial. Arquivos locais não têm criptografia e o protótipo foi pensado para uma instância por vez.
-
-Material preparado com apoio de IA. O integrante deve revisar, adaptar, compreender e demonstrar o código com a própria voz, respeitando as regras da disciplina. Não há resultados de usuários nem autoria verbal simulados neste pacote.
-
-## Entrega
-
-Vídeo de 5–8 minutos, YouTube não listado, com fala de todos os integrantes; sem voz sintética. Roteiro: `docs/ROTEIRO_VIDEO.md`. Código legível, execução e alteração ao vivo são obrigatórios.
-
-Repositório GitHub deve ser **público**. No Portal FIAP, enviar somente o `.txt` com identificação e links. Modelo: `ENTREGA_PORTAL_MODELO.txt`. Nos comentários, indicar individual/dupla/trio, nomes e RMs; só um integrante envia.
-
-Prazo seguro: **19/11/2026 às 23:55**, conforme a tela do portal (o PDF menciona 23:59). Não enviar este modelo com campos PENDENTE.
-
