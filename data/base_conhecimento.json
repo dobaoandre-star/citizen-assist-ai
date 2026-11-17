@@ -109,10 +109,12 @@
     "categoria": "Trabalho e emprego",
     "titulo": "Saber se a Carteira de Trabalho tem custo",
     "palavras_chave": [
-      "carteira gratuita",
-      "custo da carteira",
-      "pagar carteira"
-    ],
+    "carteira gratuita",
+    "custo da carteira",
+    "pagar carteira",
+    "quanto custa",
+    "quanto custa a carteira de trabalho"
+  ],
     "resposta": "A Carteira de Trabalho não tem custo para o trabalhador. Use os canais oficiais para obter ou acessar o documento.",
     "documentos": [
       "CPF e conta gov.br para o acesso digital"
